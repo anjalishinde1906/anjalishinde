@@ -127,12 +127,14 @@ Coming soon
 
 ## Be my social media break 🏅
 
-|                                                                                     <a href="https://github.com/anjalishinde1906"><img src="Anjali Shinde-logos_black.png" width=170px height=165px /></a>                                                                                         |
+|                                                                                     <a href="https://github.com/anjalishinde1906"><img src="bannerImg.jpg" width=170px height=165px /></a>                                                                                         |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Anjali Shinde]()**                                                                                                                                        |
+|                                                                                                                                        **[Anjali Shinde](https://github.com/anjalishinde1906)**                                                                                                                                        |
 | <a href="https://twitter.com/AnjaliS46018187" width="64px"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100021329750362"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="www.linkedin.com/in/anjsshinde19/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 
 
 ## Acknowledgments 💖
 * To my family👪  and friends 👫 who always kept me motivated.
 * To the community of computer science 💻.
+<h3 align='center'>💻Connect with me and support me by starring ⭐ some of my repositories💻</h2>
+<br>
