@@ -132,7 +132,7 @@ Coming soon
 |                                                                                                                                        **[Anjali Shinde](https://github.com/anjalishinde1906)**                                                                                                                                        |
 | <a href="https://twitter.com/AnjaliS46018187" width="64px"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/profile.php?id=100021329750362"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="www.linkedin.com/in/anjsshinde19/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |## License
 
-##Credits 💖
+## Credits 💖
 * Everyone who always keep me motivated
 * To the community of computer science 💻.
 <h3 align='center'>💻Connect with me and support me by starring ⭐ some of my repositories💻</h2>
